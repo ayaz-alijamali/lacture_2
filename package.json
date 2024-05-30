@@ -1,0 +1,12 @@
+{
+  "name": "lacture_2",
+  "version": "1.0.0",
+  "description": "shardha khapra lacture 2",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayaz Ali",
+  "license": "MIT"
+}
